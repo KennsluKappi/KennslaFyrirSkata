@@ -1,7 +1,7 @@
 # Framhald eftir námskeiðið
 
 <p>Þið hafið lært grunnaðgerðirnar í forritun, en það er miklu, miklu meira sem þið getið lært.</p>
-<p>Ef þið hafið áhuga á að læra meira um forritun, hef ég sett ýmislegt kennsluefni fyrir neðan <b>sem ég hef persónulega notað mikið</p>
+<p>Ef þið hafið áhuga á að læra meira um forritun, hef ég sett ýmislegt kennsluefni fyrir neðan <br>sem ég hef persónulega notað mikið</p>
 
 ## Byrjendaefni
 
